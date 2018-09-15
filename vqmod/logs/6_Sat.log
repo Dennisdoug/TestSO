@@ -1,0 +1,14 @@
+---------- Date: 2018-09-15 17:22:36 ~ IP : ::1 ----------
+REQUEST URI : /testso/
+MOD DETAILS:
+   modFile   : C:\wamp64\www\TestSO\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
