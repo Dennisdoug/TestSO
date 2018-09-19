@@ -1001,3 +1001,16 @@
 2018-09-15 18:10:06 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
 2018-09-15 18:10:09 - PHP Notice:  Undefined index: import in C:\wamp64\www\TestSO\admin\controller\tool\backup.php on line 13
 2018-09-15 18:10:09 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
+2018-09-19 4:15:26 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
+2018-09-19 4:16:07 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
+2018-09-19 4:16:34 - PHP Notice:  Undefined variable: header_type in C:\wamp64\www\TestSO\catalog\view\theme\so-market\template\common\search.tpl on line 5
+2018-09-19 4:16:46 - PHP Notice:  Undefined variable: header_type in C:\wamp64\www\TestSO\catalog\view\theme\so-market\template\common\search.tpl on line 5
+2018-09-19 4:16:49 - PHP Notice:  Undefined variable: header_type in C:\wamp64\www\TestSO\catalog\view\theme\so-market\template\common\search.tpl on line 5
+2018-09-19 4:18:18 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
+2018-09-19 4:18:47 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMIT' at line 5<br />Error No: 1064<br />--
+-- Truncate table before insert `simple_blog_view`
+--
+
+TRUNCATE TABLE `simple_blog_view`;COMMIT in C:\wamp64\www\TestSO\system\library\db\mysqli.php on line 41
+2018-09-19 4:18:48 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43
+2018-09-19 6:56:34 - PHP Notice:  Undefined variable: entry_export in C:\wamp64\www\TestSO\admin\view\template\tool\backup.tpl on line 43

@@ -266,3 +266,14 @@ admin\controller\tool\backup.php
 admin\language\english\tool\backup.php
 admin\model\tool\backup.php
 admin\view\template\tool\backup.tpl
+admin\controller\catalog\category.php
+admin\language\english\catalog\category.php
+admin\view\template\catalog\category_list.tpl
+admin\model\catalog\filter.php
+admin\view\template\catalog\category_form.tpl
+admin\model\catalog\url_alias.php
+admin\controller\catalog\filter.php
+catalog\controller\information\contact.php
+catalog\language\english\information\contact.php
+catalog\model\localisation\location.php
+catalog\view\theme\so-market\template\information\contact.tpl
